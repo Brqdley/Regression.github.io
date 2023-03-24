@@ -4,9 +4,9 @@ Link to Exploratory Data Analysis : https://brqdley.github.io
 # Framing the Problem
 My prediction problem is estimating the number of customers affected by an electrical outage (quantitative) at the start of an outage.
 I chose this variable because I think this would be useful by the electrical companies to gauge how much of an impact the outage will have,
-so they know how much manpower to use.
+so they know how much manpower to use to repair it.
 
-At the time of predicting, the restoration dates, and the outage duration would not be available, 
+At the time of prediction, the restoration dates, and the outage duration would not be available, 
 as the values would not be available at the start of an outage. Therefore, I cannot use these as features for the regression model, and have to stick with features that are available at the start of an outage, such as environmental conditions and location, and information about the electrical company that is gathered from previous days.
 
 
