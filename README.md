@@ -1,5 +1,6 @@
 # Eletrical Outages Regression Model Building
 Link to Exploratory Data Analysis : https://brqdley.github.io
+By: Bradley Nathanson
 
 # Framing the Problem
 My prediction problem is estimating the number of customers affected by an electrical outage (quantitative) at the start of an outage.
