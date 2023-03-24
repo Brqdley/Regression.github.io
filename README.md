@@ -1,4 +1,4 @@
-# Regression Project
+# Eletrical Outages Regression Model Building
 Link to Exploratory Data Analysis : https://brqdley.github.io
 
 # Framing the Problem
